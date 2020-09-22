@@ -16,10 +16,12 @@ Starting with [this base model](https://colab.research.google.com/drive/1iFcc44F
 
 ## The Data:
 
-You can use any data you're interested in (besides, of course, output from other prediction models.) Some places to get you started:
+You can use any data you're interested in (besides, of course, output from other prediction models.) Some places to get you started __(be sure to download the csv's from the link, so as to constantly have the most recent polls)__:
 - The Economist's [polling data](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ56fySJKLL18Lipu1_i3ID9JE06voJEz2EXm6JW4Vh11zmndyTwejMavuNntzIWLY0RyhA1UsVEen0/pub?gid=0&single=true&output=csv)
 - Polling data (current and historical) from [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/polls)
 - [Economic indicators](https://github.com/fivethirtyeight/data/tree/master/election-forecasts-2020) used in the FiveThirtyEight model
+
+
 
 ## Resources:
 
